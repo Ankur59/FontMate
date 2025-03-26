@@ -18,3 +18,6 @@ Limitations
 
 Requires administrative privileges for font installation
 Currently supports TTF font format
+
+Marketplace link 
+https://marketplace.visualstudio.com/items?itemName=Leo001.google-font-installer&ssr=false#review-details
